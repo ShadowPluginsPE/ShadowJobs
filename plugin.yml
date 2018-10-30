@@ -1,0 +1,21 @@
+name: ShadowJobs
+main: Main\ShadowJobs
+api: 3.0.0
+version: 1
+author: ShadowPlugins
+commands:
+ job:
+   default: true
+   description: Команды list info
+ miner:
+   default: true
+   description: Устроиться шахтером
+ gardener:
+   default: true
+   description: Устроиться садовником
+ builder:
+   default: true
+   description: Устроиться строителем
+ treecutter:
+   default: true
+   description: Устроится дровосеком
