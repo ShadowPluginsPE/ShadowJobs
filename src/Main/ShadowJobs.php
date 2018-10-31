@@ -1,5 +1,6 @@
 <?php
 # Спасибо за скачивание :) 
+# Сообщяйте о багах (контакт в README.MD)
 
 namespace Main;
 use pocketmine\plugin\PluginBase;
