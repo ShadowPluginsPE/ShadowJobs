@@ -6,7 +6,7 @@ author: ShadowPlugins
 commands:
  job:
    default: true
-   description: Команды list info
+   description: Команды list/info
  miner:
    default: true
    description: Устроиться шахтером
