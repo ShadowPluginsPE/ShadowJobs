@@ -11,8 +11,7 @@ Permission:
 none
 
 Report bugs:
-VK - vk.com/dima_loyko ;
-Mail - shadowpluginsPE@gmail.com
+VK - vk.com/dima_loyko
 
 Official communities:
 VK - vk.com/shadowpluginsPE
